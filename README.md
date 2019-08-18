@@ -7,7 +7,7 @@ MteV-X where X is the latest version of the program.
 
 ##### **Make sure to download the libraries/APIs!**
 How to download them?
-Like this:
+Like this
 ``` pip install SpeechRecognition ``` This is for the Speech Recognition library
 ``` pip install gTTS ``` This is for the Text2Speech API
 
