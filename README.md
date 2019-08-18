@@ -20,4 +20,4 @@ MteV-X where X is the latest version of the program.
     - Python
     - YouTube
     
-###### *At this version(0.0.1) you need do manually change directories for opening CSharp and Python*
+###### *At this version(0.0.1) you need to manually change directories for opening CSharp and Python*
