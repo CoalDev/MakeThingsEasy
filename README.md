@@ -6,7 +6,7 @@ Usage: ``` python MteV-X.py ```
 MteV-X where X is the latest version of the program.
 
 ##### **Make sure to download the libraries/APIs!**
-How to download them?
+#### How to download them?
 1. Like this(Just type that in your native terminal):
     - This is for the Speech Recognition library ``` pip install SpeechRecognition ``` 
     - This is for the Text2Speech API ``` pip install gTTS ``` 
