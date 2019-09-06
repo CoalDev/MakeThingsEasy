@@ -18,6 +18,7 @@ MteV-X where X is the latest version of the program.
 2. Registered "aliases"
     - Python
     - YouTube
+    - DuckDuckGo
     
 ###### Updates:
 1. September 6, 2019
