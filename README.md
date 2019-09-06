@@ -16,8 +16,14 @@ MteV-X where X is the latest version of the program.
     - open [alias]
     - close
 2. Registered "aliases"
-    - CSharp
     - Python
     - YouTube
+    
+###### Updates:
+1. September 6, 2019
+    - Added a full class for faster, easier and efficient code
+    - Removed manually adding porgrams/cd/websites
+    - Added a new way to add programs/cd/websites
+    - Added a 'Word Test' mode
     
 ###### *At this version(0.0.1) you need to manually change directories for opening CSharp and Python*
