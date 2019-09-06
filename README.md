@@ -26,4 +26,4 @@ MteV-X where X is the latest version of the program.
     - Added a new way to add programs/cd/websites
     - Added a 'Word Test' mode
     
-###### *At this version(0.0.1) you need to manually change directories for opening CSharp and Python*
+###### *At this version(0.0.2) you need to make sure that the program is matched to what the speechrecognition thinks it is, for this we added a 'Word Test' mode!*
